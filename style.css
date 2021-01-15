@@ -1,0 +1,115 @@
+.bg-img{
+    background-image: url(assest/img/3.jpg);
+    height: 100%;
+  }
+  .nav-design{
+      margin-left: 35%;
+  }
+  .nav-item {
+      padding: 0px 20px;
+  }
+  .navbar-brand img {
+      margin-left: 40px; 
+  }
+  /* .row{
+    --bs-gutter-x: 20.5rem !important;
+  } */
+  .navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 140px;
+  }
+  .other img{
+      height: 500px;
+      width: 500px; 
+  }
+  .part-1-1{
+    margin-top: 95px !important;
+  }
+  .part-1-1 h1{
+    font-family: 'Anton', sans-serif;
+      font-size: 70px;
+      color: rgb(252, 249, 249);
+  } 
+  .btn1 {
+    font-size: 18px;
+    font-weight: bold !important;
+    background-color: #6dbd47 !important;
+  }
+  .btn1 img {
+    height: 32px;
+    width: 42px;
+  }
+  .woman-part h1 {
+    font-family: 'Anton', sans-serif;
+      font-size: 45px;
+      color: rgb(10, 1, 1);
+  }
+  .part-2 {
+    padding: 20px 20px;
+  }
+  .part-2 img {
+    background-color: lightgray;
+    padding: 26px 25px;
+    height: 450px;
+    border-radius: 15px;
+  }
+  .card-work h5 {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color: blue;
+  }
+  .card-footer-work{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(245, 183, 14) !important ;
+  }
+  .card-footer button{
+    margin-left: 60px;
+    margin-top: 10px;
+    width: 150px;
+    height: 60px;
+    border-radius: 15px;
+  }
+  .card-view{
+    margin-top: 15%;
+    padding-bottom: 150px;
+  }
+  .part-3-1 img {
+    width: 130px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 27px;
+  }
+  .card-body h5 {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(58, 174, 212);
+  }
+  .part-3-2-1 img {
+    width: 100%;
+    height: 100%;
+  }
+  .form-section h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+  }
+  .contact-form {
+    background-color: #bb00ff3d;
+    border-radius: 10px;
+    margin-top: 3%  !important;
+    padding: 5% 5%;
+  }
+  .copyright{
+    font-size: 5px;
+    font-weight: bold;
+    color: lightslategray;
+    text-align: center;
+    margin-top: 10%;
+    background-color: black;
+    padding: 10px 10px;
+  }
+  
+  
